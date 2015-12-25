@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Favorite Twitch Streamers!",
+  "description": "I created this so that I could quickly watch my favorite streamers.  Not super easy to customize, I may simplify that process later.",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
