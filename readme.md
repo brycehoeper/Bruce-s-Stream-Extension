@@ -1,4 +1,4 @@
-##Should you move to Portland?##
+##Bruce's Chrome Extension##
 
 Thanks for checking out my Chrome extention. I hope you find it fun to pass the time. Feel free to send any feedback or questions my way.
 
